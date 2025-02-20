@@ -54,8 +54,8 @@ To run this project, you need:
     - cd CRUD-C
 
 3. Compile the project using GCC: 
-    - Windows: gcc project.c -o crud
-    - Linux: gcc -o project project.c
+    - Windows - gcc project.c -o crud
+    - Linux - gcc -o project project.c
 
 4. Run the executable:
 
