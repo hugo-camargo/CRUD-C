@@ -59,8 +59,8 @@ To run this project, you need:
 
 4. Run the executable:
 
-    - ./crud  # For Linux/MacOS
-    - crud.exe  # For Windows
+    - Linux/MacOS - ./crud
+    - For Windows - crud.exe
 
 ## Usage
 
